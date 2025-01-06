@@ -21,5 +21,5 @@
 Có thể sử dụng file từ đường dẫn `out/artifacts/xogame_jar/xogame.jar` nhưng cần cài đặt MySQL và cấu hình giống file code như sau:
 - URL: jdbc:mysql://localhost:3306/xo_schema
 - Username: root
-- Password: 123456
+- Password: 
 
